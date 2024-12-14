@@ -39,10 +39,9 @@ Aplikasi ini dikembangkan sebagai salah satu tugas mata kuliah *Pemrograman Mobi
 
 ## Tangkapan Layar
 
-![Desain tanpa judul (13)](https://github.com/user-attachments/assets/875cdf2c-f661-4480-9480-5887406a9d1d)
-![Desain tanpa judul (15)](https://github.com/user-attachments/assets/e1a4ee6a-51cd-440c-a850-0d8b89d2c389)
-![Desain tanpa judul (14)](https://github.com/user-attachments/assets/bc299a1b-3546-4307-8284-58a1f2018f86)
-
+![Desain tanpa judul (13)](https://github.com/user-attachments/assets/9fe27bdf-88ae-4874-82c5-15bcec9a36ef)
+![Desain tanpa judul (15)](https://github.com/user-attachments/assets/073f6a47-a22a-4846-a6a5-a7b99c2df848)
+![Desain tanpa judul (14)](https://github.com/user-attachments/assets/c9c1370c-2659-4284-917f-95349cd4c7c4)
 
 ## Referensi
 
