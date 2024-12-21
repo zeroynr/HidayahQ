@@ -31,7 +31,7 @@ Aplikasi ini dikembangkan sebagai salah satu tugas mata kuliah *Pemrograman Mobi
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/zeroynr/hidayahq.git
+   git clone https://github.com/zeroynr/HidayahQ.git
    ```
 2. Buka project menggunakan Android Studio.
 3. Hubungkan perangkat Android atau gunakan emulator.
